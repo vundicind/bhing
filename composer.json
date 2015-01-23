@@ -1,0 +1,12 @@
+{
+    "name": "vundicind/bhing",
+    "require": {
+        "phing/phing": "~2.9"
+    },
+    "authors": [
+        {
+            "name": "vundicind",
+            "email": "vundicind@gmail.com"
+        }
+    ]
+}
